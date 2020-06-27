@@ -2,8 +2,8 @@
 //  Question.swift
 //  Quizzler-iOS13
 //
-//  Created by Dixita Bhargava on 09/06/20.
-//  Copyright © 2020 The App Brewery. All rights reserved.
+//  Created by Dixita Bhargava on 10/06/2020.
+//  Copyright © 2020 Dixita Bhargava. All rights reserved.
 //
 
 import Foundation
